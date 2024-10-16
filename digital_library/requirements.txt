@@ -1,0 +1,11 @@
+fastapi==0.115.2
+uvicorn[standard]==0.32.0
+sqlalchemy==2.0.36
+psycopg2-binary==2.9.9
+pyjwt==2.9.0
+pytest==8.3.3
+black==24.10.0
+flake8==7.1.1
+gunicorn==23.0.0
+pm2==0.0.4.4
+redis==5.1.1
